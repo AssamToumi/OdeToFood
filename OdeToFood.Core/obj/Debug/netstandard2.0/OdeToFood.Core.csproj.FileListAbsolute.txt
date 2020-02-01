@@ -1,0 +1,16 @@
+B:\Sources\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+B:\Sources\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+B:\Sources\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+B:\Sources\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+B:\Sources\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+B:\Sources\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+B:\Sources\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+B:\Sources\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
+B:\Sources\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+B:\Sources\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+B:\Sources\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+B:\Sources\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+B:\Sources\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+B:\Sources\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+B:\Sources\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
+B:\Sources\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache

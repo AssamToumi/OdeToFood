@@ -1,0 +1,11 @@
+B:\Sources\OdeToFood\OdeToFood.Data\bin\Release\netstandard2.0\OdeToFood.Data.deps.json
+B:\Sources\OdeToFood\OdeToFood.Data\bin\Release\netstandard2.0\OdeToFood.Data.dll
+B:\Sources\OdeToFood\OdeToFood.Data\bin\Release\netstandard2.0\OdeToFood.Data.pdb
+B:\Sources\OdeToFood\OdeToFood.Data\bin\Release\netstandard2.0\OdeToFood.Core.dll
+B:\Sources\OdeToFood\OdeToFood.Data\bin\Release\netstandard2.0\OdeToFood.Core.pdb
+B:\Sources\OdeToFood\OdeToFood.Data\obj\Release\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+B:\Sources\OdeToFood\OdeToFood.Data\obj\Release\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+B:\Sources\OdeToFood\OdeToFood.Data\obj\Release\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+B:\Sources\OdeToFood\OdeToFood.Data\obj\Release\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+B:\Sources\OdeToFood\OdeToFood.Data\obj\Release\netstandard2.0\OdeToFood.Data.dll
+B:\Sources\OdeToFood\OdeToFood.Data\obj\Release\netstandard2.0\OdeToFood.Data.pdb
